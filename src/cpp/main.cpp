@@ -9,6 +9,7 @@
 #include "task_2.h"
 #include "task_3.h"
 #include "task_4.h"
+#include "task_5.h"
 
 int main() {
     std::cout << "Task 1" << std::endl;
@@ -20,6 +21,6 @@ int main() {
     std::cout << "Task 4" << std::endl;
     Genome();
     std::cout << "Task 5" << std::endl;
-    // call for task 5
+    TagGame();
     return 0;
 }
