@@ -10,7 +10,7 @@
 
 int main() {
     std::cout << "Task 1" << std::endl;
-    
+    ShortestPath();
     std::cout << "Task 2" << std::endl;
     Spikies();
     std::cout << "Task 3" << std::endl;
