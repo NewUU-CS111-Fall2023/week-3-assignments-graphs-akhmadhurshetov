@@ -64,5 +64,3 @@ private:
         return result;
     }
 };
-
-#endif
