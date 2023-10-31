@@ -1,8 +1,8 @@
 /*
- * Author:
- * Date:
- * Name:
- */
+ * Author: Axmad Xurshetov
+ * Date: 31.10.2023
+ * Name: Axmad
+*/
 
 #include <iostream>
 #include "task_1.h"
