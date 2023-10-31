@@ -6,12 +6,13 @@
 
 #include <iostream>
 #include "task_1.h"
+#include "task_2.h"
 
 int main() {
     std::cout << "Task 1" << std::endl;
-    Spikies();
+    
     std::cout << "Task 2" << std::endl;
-    // call for task 2
+    Spikies();
     std::cout << "Task 3" << std::endl;
     // call for task 3
     std::cout << "Task 4" << std::endl;
